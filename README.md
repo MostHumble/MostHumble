@@ -4,7 +4,4 @@
   </a>
 </div>
 
-### Hi there 👋
-
-Check out my top open-source [projects](https://github.com/MostHumble?tab=repositories&sort=stargazers) ⭐✨
-
+### building 🔧
